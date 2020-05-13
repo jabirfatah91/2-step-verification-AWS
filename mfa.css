@@ -1,0 +1,14 @@
+.mfarow{
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 1em;
+}
+
+.mfarow h3{
+    font-size: larger;
+}
+
+.mfarow h4{
+    font-size: smaller;
+    color: firebrick;
+}
