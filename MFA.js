@@ -34,7 +34,7 @@ class MFA extends Component {
 	//2-Generate API key and Usage plan for your AWS API Gateway
 	
     event.preventDefault();
-    await fetch('https://ucij1r1fak.execute-api.us-east-1.amazonaws.com/Stage1', {
+    await fetch('endpoint', {
       method: "POST",
       headers: {
         Accept: "application/json",
